@@ -1,0 +1,16 @@
+Télécharger le jdk 11 à l'adresse: http://jdk.java.net/11/
+
+Décompresser dans le répertoire que vous souhaitez.
+
+Attention, vous devez être sous une distribution 64 bits.
+
+Télécharger eclipse Oxygen.
+
+Pour créer un projet Java 11 sous eclipse:
+
+	- Faites File/New Java Project/
+	- Cliquer sur Configre JRES
+	- Add
+	- Standard VM
+	- Dans JRE Home, selectionner le répertoire avec le jdk que vous venez de décompresser
+	- Finish

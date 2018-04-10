@@ -1,0 +1,7 @@
+Pour trouver des bases propres: http://openjdk.java.net
+
+Pour télécharger Java 11: http://jdk.java.net/11/
+
+Projet Amber: Changement de langage, http://openjdk.java.net/projects/amber/
+
+Projet Valhalla: Machine Virtuelle,  http://openjdk.java.net/projects/valhalla/
